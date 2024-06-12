@@ -1,2 +1,4 @@
 Asset/Cargo_container_v1.psd filter=lfs diff=lfs merge=lfs -text
 Asset/Cargo_container_v123.psd filter=lfs diff=lfs merge=lfs -text
+Asset/Cargo_container_v12345.psd filter=lfs diff=lfs merge=lfs -text
+C:/Users/fuqia/Documents/T1/Asset/Cargo_container_v12345.psd filter=lfs diff=lfs merge=lfs -text
